@@ -1,0 +1,37 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>http://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>1480891_69281373</transaction>
+  <expiration>2017-10-02T23:27:50-07:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:00000000-0000-0000-0000-000001480891</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Foundational and Applied Statistics for Biologists Using R</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aho, Ken A.; </dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">CRC Press</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">1480891</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:00000000-0000-0000-0000-000001480891</resource>
+      <permissions>
+        <display>
+          <duration>2419199</duration>
+        </display>
+        <excerpt>
+          <duration>2419199</duration>
+          <count initial="90" max="90" incrementInterval="26879"/>
+        </excerpt>
+        <print>
+          <duration>2419199</duration>
+          <count initial="90" max="90" incrementInterval="26879"/>
+        </print>
+        <play>
+          <duration>2419199</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>/o5oNTQQID8beV/HSGWdMi6VOB4=</hmac>
+</fulfillmentToken>
